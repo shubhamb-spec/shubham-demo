@@ -1,2 +1,2 @@
 # shubham-demo
-this is mt first repositery
+this is my first repositery
